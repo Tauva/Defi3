@@ -1,0 +1,2 @@
+login scorbin
+passwd journal
